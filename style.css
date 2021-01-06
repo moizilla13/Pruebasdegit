@@ -1,0 +1,29 @@
+/*Body*/
+
+Body {
+  margin: 20px;
+  padding: 20px;
+  background-color: black;
+}
+/*Main Title*/
+h1 {
+  color: white;
+  font-size: 26;
+}
+/*First Paragraph*/
+p {
+  color: white;
+  font-size: 22px;
+}
+
+/*class*/
+.parrafo {
+  color: pink;
+  font-size: 22px;
+}
+
+/*id*/
+#identificador {
+  color: rebeccapurple;
+  font-size: 22px;
+}
